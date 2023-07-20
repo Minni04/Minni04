@@ -9,11 +9,11 @@ I'm currently pursuing my Bachelors of Engineering under the domain of Informati
 Nowadays,I am familiarizing myself with the concepts and algorithms of **Machine Learning** in order to develop predictive models and make data-driven decisions
 - 🌱 
 
-- 💬 Ask me about **Python,C++,C**
+- 💬 Ask me about **Data Structure and Algorithms ,Python Libraries-Numpy,Pandas ,Scikit-Learn**
 
 - 📫 How to reach me **minnib04@gmail.com**
 
-- ⚡ Fun fact **I have competed in a sport **
+- ⚡ Fun fact **I love to run **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
