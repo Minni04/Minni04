@@ -1,12 +1,12 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jayapritha</h1>
-<h1 align="center">Hi 👋, I'm Minni</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Minni</h1>
+<!-- <h1 align="center">Hi 👋, I'm Minni</h1> -->
 <!-- <h3 align="center">A passionate Data Scientist from India</h3> -->
 <img align="right"  src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minni04&label=Profile%20views&color=0e75b6&style=flat" alt="minni04" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h2 align=""> ✨ About me </h2>
-I'm currently pursuing my Bachelors of Engineering under the domain of Information Techonology. I'm highly self motivated person , who likes to take initiative and seek out new challenges. I love learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects.I love coding and making analysis on datsets .
+I'm currently pursuing my Bachelors of Engineering under the domain of Information Techonology. I'm highly self motivated person , who likes to take initiative and seek out new challenges. I love learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects.I love coding and doing analysis on different datsets .
 Nowadays,I am familiarizing myself with the concepts and algorithms of Machine Learning in order to develop predictive models and make data-driven decisions
 - 🌱 
 
