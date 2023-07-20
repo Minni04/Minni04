@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minni04&label=Profile%20views&color=0e75b6&style=flat" alt="minni04" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<h2 align=""> ✨ About me </h2>
 - 🌱 I am familiarizing myself with the concepts and algorithms of **Machine Learning** in order to develop predictive models and make data-driven decisions
 
 - 💬 Ask me about **Python,C++,C**
