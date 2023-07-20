@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h2 align=""> ✨ About me </h2>
-- 🌱 I am familiarizing myself with the concepts and algorithms of **Machine Learning** in order to develop predictive models and make data-driven decisions
+I'm currently pursuing my Bachelors of Engineering under the domain of Information Techonology. I'm highly self motivated person , who likes to take initiative and seek out new challenges. I love learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects.I love coding and making analysis on datsets .
+Nowadays,I am familiarizing myself with the concepts and algorithms of **Machine Learning** in order to develop predictive models and make data-driven decisions
+- 🌱 
 
 - 💬 Ask me about **Python,C++,C**
 
