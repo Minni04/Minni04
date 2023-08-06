@@ -14,7 +14,7 @@ Nowadays,I am familiarizing myself with the concepts and algorithms of Machine L
 
 - 📫 How to reach me **minnib04@gmail.com**
 
-- ⚡ Fun fact **I love to run**
+- ⚡ Fun fact **I love to Run**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
